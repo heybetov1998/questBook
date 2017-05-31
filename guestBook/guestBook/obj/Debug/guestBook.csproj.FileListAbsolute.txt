@@ -1,0 +1,9 @@
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\bin\Debug\guestBook.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\bin\Debug\guestBook.exe
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\bin\Debug\guestBook.pdb
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\obj\Debug\guestBook.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\obj\Debug\guestBook.Form1.resources
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\obj\Debug\guestBook.Properties.Resources.resources
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\obj\Debug\guestBook.csproj.GenerateResource.Cache
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\obj\Debug\guestBook.exe
+c:\users\p501\documents\visual studio 2017\Projects\guestBook\guestBook\obj\Debug\guestBook.pdb
